@@ -1,0 +1,11 @@
+#header_h1
+{
+    font-size: 25px;
+    color: darkmagenta;
+}
+canvas
+{
+    color: black;
+    border-style: solid;
+    border-color: black;
+}
